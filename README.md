@@ -1,4 +1,4 @@
-!!!para desplegar el poryecto de forma apropiada descarga el proyecto completo en un carpeta raiz y en el CMD instala en la raiz del proyecto "npm i" despues despliegalo con "npm start"!!! 
+!!!para desplegar el proyecto de forma apropiada descarga el proyecto completo en un carpeta raiz y en el CMD instala en la raiz del proyecto "npm i" despues despliegalo con "npm start"!!! 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
